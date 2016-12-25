@@ -1,0 +1,3 @@
+how to run : use python2 to run the .py file 
+	server : python server.py port
+	client : python client.py [-n] [-t] host:port
